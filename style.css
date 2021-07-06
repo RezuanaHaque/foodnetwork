@@ -98,10 +98,10 @@ h1{
     background-color: rgba(128, 128, 128, 0.178);
     font-weight: bolder;
     font-size: 16px;
-    border-left: 2px double rgb(165, 165, 165);
-    border-right: 2px double rgb(165, 165, 165);
-    border-bottom: 2px double rgb(165, 165, 165);
-    border-top: 2px double rgb(165, 165, 165);
+    border-left: 2px double rgb(187, 186, 186);
+    border-right: 2px double rgb(187, 186, 186);
+    border-bottom: 2px double rgb(187, 186, 186);
+    border-top: 2px double rgb(187, 186, 186);
 }
 section h2{
     color: rgb(8, 8, 8);
